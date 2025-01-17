@@ -4,7 +4,7 @@ class aimllab1 {
     static int movecount = 0;
     static char currentplayer ='X';
     static char[][] board = new char[3][3];
-        
+        // aiml
     public static void main(String[] args) {
         initializeBoard();
         
